@@ -23,6 +23,7 @@ public class Invoice {
 	this.reference = reference;
 	this.date = date;
 	this.amount = amount;
+	// Toto
     }
 
     public String getReference() {
